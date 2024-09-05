@@ -1,0 +1,3 @@
+1. gen_nico.py : 从指定NICO数据集地址读入图片，完成相应客户端数据划分并分成train/test
+2. train_stn.py : 完成对于各个客户端内stn网络的训练。
+3. main.py : 内含各种尝试过的训练模式，各个函数皆有annotation
